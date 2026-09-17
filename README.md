@@ -85,4 +85,7 @@ This project contains three modules:
 
 
 Python, Pandas, NumPy, BeautifulSoup, Requests, SQLite, Scikit-learn, SMOTE, Joblib, Sentence Transformers, ChromaDB, LangGraph, FastAPI and Docker.
+## Project Status
+
+All three capstone modules have been implemented and integrated into the project repository.
 
