@@ -1,0 +1,7 @@
+Zepto Cancellation Policy
+
+An order may be cancelled when cancellation is available for that order.
+
+Cancellation availability can depend on the current status of the order.
+
+If an order has already progressed to a stage where cancellation is unavailable, the customer may need to contact support.

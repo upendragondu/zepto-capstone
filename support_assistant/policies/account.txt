@@ -1,0 +1,7 @@
+Zepto Account Policy
+
+Customers should keep their account information secure and should not share passwords or authentication credentials with others.
+
+Account-related issues should be reported through the appropriate Zepto support channel.
+
+Customers may need to verify account information before certain account-related requests can be processed.

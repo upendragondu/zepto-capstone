@@ -1,0 +1,7 @@
+Zepto Payment Policy
+
+Zepto supports payment methods made available through its application.
+
+A payment may require verification or authorization by the payment provider.
+
+If money has been deducted but the order was not successfully created, customers should check the payment status and contact support when required.

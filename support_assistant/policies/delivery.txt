@@ -1,0 +1,7 @@
+Zepto Delivery Policy
+
+Zepto provides delivery services for eligible orders in supported locations.
+
+Delivery time can vary depending on location, availability, traffic, weather, and other operational conditions.
+
+Customers can check the order status through the Zepto application.

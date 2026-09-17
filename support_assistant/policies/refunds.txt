@@ -1,0 +1,7 @@
+Zepto Refund Policy
+
+Refunds are processed when an eligible order is cancelled or when an eligible issue is confirmed.
+
+Refunds are generally returned to the original payment method. The time taken for the refund may depend on the payment provider.
+
+Customers should contact Zepto support if an expected refund has not been received.
