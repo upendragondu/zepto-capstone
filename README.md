@@ -1,91 +1,67 @@
-\# Zepto Capstone Project
+# Zepto Capstone Project
 
+This project contains three integrated modules:
 
+## 1. Data Pipeline
 
-This project contains three modules:
+* Web scraping using Requests and BeautifulSoup
+* Scraped 100 books from Books to Scrape
+* Data cleaning and transformation
+* GBP to INR conversion using 1 GBP = INR 105.50
+* SQLite database with normalized tables
+* SQL queries using SELECT, WHERE, ORDER BY, LIMIT, DISTINCT, IN, BETWEEN and JOIN
+* Pandas SQL analysis and JOIN reproduction
+* Automated end-to-end pipeline
 
+## 2. Analytics
 
+* Titanic dataset analysis
+* Exploratory Data Analysis
+* Missing-value handling
+* Outlier analysis
+* Data visualization
+* Classification using:
 
-\## 1. Data Pipeline
+  * Logistic Regression
+  * Decision Tree
+  * Random Forest
+* Class balancing and SMOTE
+* GridSearchCV
+* ROC-AUC and confusion matrix
+* Fare regression using Linear Regression
+* Saved ML pipelines using Joblib
+* Model reload and prediction
 
-\- Web scraping using Requests and BeautifulSoup
+## 3. Support Assistant
 
-\- Scraped 100 books from Books to Scrape
+* Zepto policy documents
+* Sentence Transformers embeddings
+* ChromaDB vector store
+* Policy retrieval
+* Intent classification
+* LangGraph workflow
+* Prompt engineering
+* Pydantic JSON validation
+* FastAPI `/ask` endpoint
+* Docker support
+* Mock LLM mode without an API key
 
-\- Data cleaning and transformation
-
-\- GBP to INR conversion using 1 GBP = ₹105.50
-
-\- SQLite database with normalized tables
-
-\- SQL queries using SELECT, WHERE, ORDER BY, LIMIT, DISTINCT, IN, BETWEEN and JOIN
-
-\- Pandas SQL analysis and JOIN reproduction
-
-
-
-\## 2. Analytics
-
-\- Titanic dataset analysis
-
-\- Exploratory Data Analysis
-
-\- Missing-value handling
-
-\- Outlier analysis
-
-\- Visualization
-
-\- Classification using:
-
-&#x20; - Logistic Regression
-
-&#x20; - Decision Tree
-
-&#x20; - Random Forest
-
-\- Class balancing and SMOTE
-
-\- GridSearchCV
-
-\- ROC-AUC and confusion matrix
-
-\- Fare regression using Linear Regression
-
-\- Saved ML pipelines using Joblib
-
-
-
-\## 3. Support Assistant
-
-\- Zepto policy documents
-
-\- Sentence Transformers embeddings
-
-\- ChromaDB vector store
-
-\- Policy retrieval
-
-\- Intent classification
-
-\- LangGraph workflow
-
-\- Prompt engineering
-
-\- Pydantic JSON validation
-
-\- FastAPI `/ask` endpoint
-
-\- Docker support
-
-
-
-\## Technologies
-
-
+## Technologies
 
 Python, Pandas, NumPy, BeautifulSoup, Requests, SQLite, Scikit-learn, SMOTE, Joblib, Sentence Transformers, ChromaDB, LangGraph, FastAPI and Docker.
+
+## Project Structure
+
+```text
+zepto_capstone/
+├── data_pipeline/
+├── analytics/
+├── support_assistant/
+├── zepto.db
+├── README.md
+└── .gitignore
+```
+
 ## Project Status
 
-All three capstone modules have been implemented and integrated into the project repository.
-
+All three capstone modules have been implemented, tested and integrated into the project repository.
